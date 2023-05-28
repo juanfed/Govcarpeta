@@ -129,7 +129,6 @@ Pillow==9.4.0
 pipenv==2023.5.19
 plaster==1.0
 plaster-pastedeploy==0.5
-pluggy==1.0.0+repack
 pluginbase==1.0.1
 ply==3.11
 portend==3.1.0
@@ -169,7 +168,7 @@ PyGObject==3.42.2
 pygraphviz==1.7
 PyHamcrest==2.0.3
 pyinotify==0.9.6
-PyInstaller==3.5+498e6ee058
+PyInstaller==3.5
 PyJWT==2.6.0
 pylnk3==0.4.2
 pyminifier==2.1
@@ -223,7 +222,7 @@ python-status==1.0.1
 pythran==0.11.0
 PyTrie==0.4.0
 pytz==2022.7.1
-pytz-deprecation-shim==0.1.0.post0
+pytz-deprecation-shim==0.1.0
 pytzdata==2020.1
 pyVNC==0.1
 pywerview==0.3.3
