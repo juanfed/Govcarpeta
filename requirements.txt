@@ -140,8 +140,6 @@ protobuf==4.21.12
 psutil==5.9.4
 psycopg==3.1.7
 psycopg2==2.9.5
-ptyprocess==0.7.0
-pure-eval==0.0.0
 py==1.11.0
 py-sneakers==1.0.1
 py-ubjson==0.16.1
