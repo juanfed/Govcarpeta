@@ -100,14 +100,6 @@ google-crc32c==1.5.0
 google-resumable-media==2.5.0
 googleapis-common-protos==1.59.0
 Jinja2==3.1.2
-mkchromecast==0.3.9
-mnemonic==0.19
-more-itertools==8.10.0
-mpmath==0.0.0
-msgpack==1.0.3
-msldap==0.4.7
-multidict==6.0.4
-mutagen==1.46.0
 mypy-extensions==1.0.0
 mysqlclient==1.4.6
 nassl==5.0.0
