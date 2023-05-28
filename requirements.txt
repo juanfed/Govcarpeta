@@ -192,7 +192,6 @@ pyramid==2.0
 Pyrebase4==4.7.0
 pyrsistent==0.18.1
 pyserial==3.5
-pyShodan==0.2.6
 pysmbc==1.0.23
 pysmi==0.3.2
 pysnmp==4.4.12
