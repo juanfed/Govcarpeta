@@ -56,7 +56,6 @@ certifi==2022.6.15
 cffi==1.15.1
 Django==3.2.18
 dnslib==0.9.23
-dnspython==2.3.0
 docopt==0.6.2
 dropbox==11.34.0
 dsinternals==1.2.4
