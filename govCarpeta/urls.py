@@ -19,6 +19,7 @@ from govCarpeta.views import index, registerCitizen, authenticateDocument, valid
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', loginCitizen),
     path('login/', loginCitizen, name='loginCitizen'),
     path('register/', signUpCitizen, name='signUpCitizen'),
     path('main/', index, name='index'),
