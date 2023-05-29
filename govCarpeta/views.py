@@ -4,6 +4,7 @@ from . import utils
 from django.shortcuts import render, redirect
 from django.urls import reverse
 from django.http import HttpResponseRedirect
+from django.http import HttpResponse
 import os
 
 def index(request):

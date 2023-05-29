@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-xcz1sa)xs_en)%jv*yjastjthj$*4u-may&+pq+sy%=1t8ampo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 
 
 # Application definition
@@ -69,6 +69,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'govCarpeta.wsgi.application'
+#WSGI_APPLICATION = 'vercel_app.wsgi.app'
 
 
 # Database
